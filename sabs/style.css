@@ -1,0 +1,106 @@
+
+header{
+ text-align: center;
+    background-color: rgb(74, 86, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+  background-color: antiquewhite;
+}
+#image{
+ left: 2%;
+
+}  
+  #divBusca{
+    position: absolute ; right: 10%;
+    
+    align-items: center;
+  }
+  #txtBusca{
+    float:left;
+    background-color:rgb(255, 255, 255);
+    border:solid 1px;
+    border-radius:15px;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:20px;
+    width:150px;
+  }
+h1{
+text-align: left;
+    font-family: fonte;
+
+}
+@font-face {
+    font-family: fonte;
+    src: url(Rafgins-Regular.otf);
+}
+p{
+    text-align: end;
+    font-family: mini;
+
+}
+h2
+{
+   position: absolute; top: 25%; left: 25%;
+ text-align: justify;
+font-size:small;
+font-family: 'Times New Roman', Times, serif ;
+}
+@font-face {
+    font-family: mini;
+    src: url(FashionMode-DemoVersion-Regular.otf);
+}
+#Sabrina{
+  align-items: absolute ; top: 8% ; right: 5%%;
+}
+#gif{
+  position: absolute; top: 20%; right: 10%;
+}
+#vm{
+  position: absolute; top: 55% ;right: 8%;
+  font-size:larger;
+  font-family: fonte;
+}
+@font-face {
+  font-family: mini;
+  src: url(FashionMode-DemoVersion-Regular.otf);
+}
+
+#vma{
+  position: absolute; top: 64% ;left: 62%;
+  font-size: small;
+  font-family:'Times New Roman', Times, serif, sans-serif;
+}
+#snl{
+  position: absolute; top: 60% ;left: 68%;
+  font-size: small;
+  font-family:'Times New Roman', Times, serif, sans-serif;
+}
+#SNL{
+
+  position: absolute; top: 89%; left: 29%;
+  text-align: justify;
+ font-size:small;
+ font-family: 'Times New Roman', Times, serif ;
+}
+#tour{
+  position: absolute; top: 89% ;right: 6%;
+  font-size:;
+  font-family: fonte;
+}
+@font-face {
+  font-family: mini;
+  src: url(FashionMode-DemoVersion-Regular.otf);
+}
+#tour2{
+  position: absolute; top: 100%; right: 5%;
+}
+#text{
+  position: absolute; top: 135% ;left: 64%;
+  font-size: small;
+  font-family:'Times New Roman', Times, serif, sans-serif;
+}
